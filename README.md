@@ -15,7 +15,9 @@
 
 # Usage:
 
-- Edit spotify_credentials.ini with your spotify username, client id, and secret.
+- You will need from the [spotify developer console](https://developer.spotify.com/console/), your username, client_id and secret.
+
+- Edit spotify_credentials.ini with your spotify username, client_id, and secret.
 
 - When you run the script for the first time, a localhost tab will open to authenticate you to spotify, you need to copy that link and past it in your terminal.
 
