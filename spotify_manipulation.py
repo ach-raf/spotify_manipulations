@@ -241,7 +241,7 @@ save_to_playlist(spotify_username, playlist_name, similar_tracks)
 playlist_name = 'the_doors_top_10'
 artist_name = 'the doors'
 artist_top_songs = get_artist_top_songs(artist_name, 10)
-save_to_playlist(spotify_username, playlist_name, similar_tracks)
+save_to_playlist(spotify_username, playlist_name, artist_top_songs)
 """
 
 """
